@@ -9,3 +9,5 @@ Output:
 * P - the pivot matrix
 
 This program will determine the LU Factorization of a square matrix. The program uses partial pivoting to acomplish this.
+
+This program will not work with non-square matrixes.
